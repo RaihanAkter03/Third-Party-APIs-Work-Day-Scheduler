@@ -30,7 +30,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ## Description
-```
+
 when navigate to the URL you will see Work Day Scheduler current day showing.
 you will see time block, text block and save button.
 Past time will colored gray , present will colored orange and futur will colored green . 
@@ -39,5 +39,4 @@ rewrite by deleting previous data it will overlap the previous schedule.
 Schedules are remain on the text area.
 if you dont save your changes , application will not save your changes.
 
-
-![Assets](./Assets/app.gif)
+![application](assets/app.GIF)

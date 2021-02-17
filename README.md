@@ -39,4 +39,4 @@ rewrite by deleting previous data it will overlap the previous schedule.
 Schedules are remain on the text area.
 if you dont save your changes , application will not save your changes.
 
-![application](assets/app.GIF)
+![application](Assets/app.GIF)
